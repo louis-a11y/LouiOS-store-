@@ -901,3 +901,19 @@
     	"invert": true
   }
 }]
+
+
+{
+		"name": "SuperLouis App",
+		"icon": "https://raw.githubusercontent.com/louis-a11y/LouiOS -store-/main/store/img/SuperLouis-App.png",
+		"type": "app",
+		"data": {
+			"type": "IFrame",
+			"url": "bit.ly/SuperLouis",
+			"gallery": [
+				"https://tse3.mm.bing.net/th/id/OIP.boxvK0oLF7DNBtBn1t5wjwHaEy?pid=ImgDet&rs=1",
+				"https://miro.medium.com/max/2652/1*Hv7hbkxpOsNyzt5-Pv8FJQ.png"
+			],
+			"desc": "DISCLAIMER:This is NOT a real app and opening it will redirect you to the website "SuperLouis Web", accessible with the URL "bit.ly/SuperLouis". Thanks for reading!",
+			"feat": "Louis content"
+		}
