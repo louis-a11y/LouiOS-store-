@@ -70,11 +70,11 @@
 	},
 	{
 		"name": "Visual Studio Code",
-		"icon": "https://raw.githubusercontent.com/blueedgetechno/win11React/master/public/img/icon/code.png",
+		"icon": "https://raw.githubusercontent.com/louis-a11y/LouiOS/master/public/img/icon/code.png",
 		"type": "app",
 		"data": {
 			"type": "IFrame",
-			"url": "https://github1s.com/blueedgetechno/win11React",
+			"url": "https://github1s.com/louis-a11y/LouiOS",
 			"invert": true,
 			"gallery": [
 				"https://code.visualstudio.com/assets/home/home-screenshot-win.png"
@@ -101,7 +101,7 @@
  
  	{
 		"name": "WSL",
-		"icon": "https://raw.githubusercontent.com/win11react/store/main/store/img/wsl.jpg",
+		"icon": "https://raw.githubusercontent.com/louis-a11y/LouiOS -store-/main/store/img/wsl.jpg",
 		"type": "app",
 		"data": {
 			"type": "IFrame",
@@ -116,12 +116,12 @@
 	},
  
 	{
-		"name": "Jitsi Meet",
+		"name": "Google Meet",
 		"icon": "https://avatars.githubusercontent.com/u/3671647",
 		"type": "app",
 		"data": {
 			"type": "IFrame",
-			"url": "https://meet.jit.si/",
+			"url": "https://meet.google.com/",
 			"gallery": [
 				"https://www.icescrum.com/wp-content/uploads/2020/03/jitsi1.png"
 			],
@@ -161,7 +161,7 @@
 	},
 	{
 		"name": "Minecraft",
-		"icon": "https://raw.githubusercontent.com/win11react/store/main/store/img/minecraft.png",
+		"icon": "https://raw.githubusercontent.com/louis-a11y/LouiOS -store-/main/store/img/minecraft.png",
 		"type": "game",
 		"data": {
 			"type": "IFrame",
